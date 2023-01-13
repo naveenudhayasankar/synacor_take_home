@@ -10,5 +10,3 @@ The application can be run using your preferred IDE and can be tested using Post
 
 The application can also be tested without starting it by using the testing framework. The unit tests are implemented with MockMVC and are ordered to test the consumption and resetting of the quota values. 
 
-There is also a .jar file without dependencies under demo\out\artifacts\take_home that can be used to run the application. 
-

@@ -10,3 +10,4 @@ The application can be run using your preferred IDE and can be tested using Post
 
 The application can also be tested without starting it by using the testing framework. The unit tests are implemented with MockMVC and are ordered to test the consumption and resetting of the quota values. 
 
+The base URL is http://localhost:8080/api
